@@ -28,6 +28,7 @@ public class learnDatatypes {
 						  // so normally any java takes any decimal value as float by default which would utilise 8 byte of memory space
 						  // int variable take only 4 byte for memory allocation
 						  // so below statement will ignore the decimal value and print only 3
+						  // this is called down casting as we are casting from a higher datatype to a lower datatype(memory)
 		System.out.println(u);
 			
 		}
